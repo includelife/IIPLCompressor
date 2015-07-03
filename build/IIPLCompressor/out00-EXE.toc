@@ -1,0 +1,9 @@
+('C:\\Users\\huzhp\\Desktop\\IIPL\\dist\\IIPLCompressor.exe',
+ False,
+ False,
+ 'res\\iipl.ico',
+ None,
+ [],
+ None,
+ False,
+ 1434286153L)
